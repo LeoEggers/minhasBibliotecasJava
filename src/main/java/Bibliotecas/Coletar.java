@@ -11,7 +11,7 @@ import java.util.Scanner;
  * intervalos específicos (quando aplicável) e trata exceções de entrada inválida.
  */
 public class Coletar {
-    public static Scanner sc = new Scanner(System.in);
+    private static final Scanner sc = new Scanner(System.in);
 
     /**
      * Coleta um número inteiro do usuário com um valor mínimo e máximo permitido.
