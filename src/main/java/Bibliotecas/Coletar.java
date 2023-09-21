@@ -3,7 +3,7 @@ package Bibliotecas;
 import java.util.Scanner;
 
 /**
- * Autor: Seu Nome
+ * Autor: Leonardo Vasconcelos Eggers
  * Data: 21 de setembro de 2023
  * A classe Coletar fornece métodos para coletar entradas do usuário a partir do console,
  * incluindo números inteiros, números de ponto flutuante e strings.
